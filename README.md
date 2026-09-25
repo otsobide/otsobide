@@ -5,6 +5,7 @@ Software Engineer and Cybersecurity Researcher from Spain 🇪🇸 specializing 
 
 ## Projects I'm working on
 
+* 📖 [DonkiOS](https://github.com/otsobide/donki) - Opinionated Arch setup
 * 🧠 [Mindflayer](https://github.com/otsobide/mindflayer) - Skill management tool
 
 ## Projects I maintain
