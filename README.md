@@ -6,6 +6,7 @@ Software Engineer and Cybersecurity Researcher from Spain 🇪🇸 specializing 
 ## Projects I'm working on
 
 * 🧠 [Mindflayer](https://github.com/otsobide/mindflayer) - Skill management tool
+* 🦊 [Fennec](https://github.com/otsobide/fennec) - Another Cyber Threat Intelligence platform
 
 ## Projects I maintain
 
@@ -19,7 +20,6 @@ Software Engineer and Cybersecurity Researcher from Spain 🇪🇸 specializing 
 ## Legacy Projects
 
 * 🔑 [Tanukeys](https://github.com/otsobide/tanukeys) - Service for storing cryptographic public keys
-* 🦊 [Fennec](https://github.com/otsobide/fennec) - Another Cyber Threat Intelligence platform
 * 🌟 [Collapse](https://github.com/otsobide/collapse) - A small, fast file compressor
 * 🐋 [Maruja](https://github.com/otsobide/maruja) - Docker container packet sniffer
 * 🐠 [Datarium](https://github.com/otsobide/datarium) - Common data structures for TypeScript
