@@ -5,7 +5,7 @@ Software Engineer and Cybersecurity Researcher from Spain 🇪🇸 specializing 
 
 ## Projects I'm working on
 
-* 🧠 [Mindflayer](https://github.com/otsobide/mindflayer) - Skill management tool
+* 🧠 [Mindweaver](https://github.com/otsobide/mindweaver) - Skill management tool
 
 ## Projects I maintain
 
