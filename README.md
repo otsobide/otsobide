@@ -5,7 +5,9 @@ Software Engineer and Cybersecurity Researcher from Spain 🇪🇸 specializing 
 
 ## Projects I'm working on
 
-* 🧠 [Mindweaver](https://github.com/otsobide/mindweaver) - Skill management tool
+* 🕷 [Mindweaver](https://github.com/otsobide/mindweaver) - Skill management tool
+* 🐝 [Git Runner Swarm](https://github.com/otsobide/git-runner-swarm) -
+* 🍱 [Git Opt](https://github.com/otsobide/git-opt) -
 
 ## Projects I maintain
 
