@@ -7,7 +7,7 @@ Software Engineer and Cybersecurity Researcher from Spain 🇪🇸 specializing 
 
 * 🕷 [Mindweaver](https://github.com/otsobide/mindweaver) - Skill management tool
 * 🐝 [Git Runner Swarm](https://github.com/otsobide/git-runner-swarm) - A web panel for self-hosted GitHub Actions runners
-* 🍱 [Git Opt](https://github.com/otsobide/git-opt) -
+* 🍱 [Git Opt](https://github.com/otsobide/git-opt) - Self-hosted bot that keeps your repositories images losslessly optimized
 
 ## Projects I maintain
 
